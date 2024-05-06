@@ -1,16 +1,16 @@
 {
   "global": {
-    "siteName": "Strapi Blog",
+    "siteName": "GM For Beginner",
     "defaultSeo": {
       "metaTitle": "Page",
-      "metaDescription": "A blog made with Strapi",
+      "metaDescription": "GM For Beginner",
       "shareImage": null
     },
-    "siteDescription": "A Blog made with Strapi",
+    "siteDescription": "GM For Beginner",
     "favicon": null
   },
   "about": {
-    "title": "About the strapi blog",
+    "title": "GM For Beginner",
     "blocks": [
       {
         "__component": "shared.quote",
